@@ -196,13 +196,17 @@ h3, h2 {
   border-bottom: 0;
 }
 
-.auth-image {
-  float: left;
-  width: 200px;
-  height: auto;
-  margin-top: 10px;
-  margin-right: 25px;
-}
+
+
+  
+    .responsive {
+      width: 100%;
+      height: auto;
+  }
+
+
+
+
 
 /* contact page */
 
